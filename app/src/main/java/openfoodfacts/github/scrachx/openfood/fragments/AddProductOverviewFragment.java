@@ -1029,7 +1029,6 @@ public class AddProductOverviewFragment extends BaseFragment implements PhotoRec
                 .centerInside()
                 .into(imageFront);
         }
-        Toast.makeText(activity, message, Toast.LENGTH_SHORT).show();
     }
 
     public void showOtherImageProgress() {
