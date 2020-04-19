@@ -146,7 +146,7 @@ buildscript {
 apply plugin: 'org.greenrobot.greendao'
 
 greendao {
-    schemaVersion 16
+    schemaVersion 17
 }
 android {
     // Other settings
