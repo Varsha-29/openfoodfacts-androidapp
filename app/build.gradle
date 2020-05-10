@@ -204,6 +204,9 @@ dependencies {
     //Database
     implementation "org.greenrobot:greendao:$rootProject.greenDaoVersion"
 
+    //Event bus
+    implementation "org.greenrobot:eventbus:$rootProject.eventBusVersion"
+
     //Image Loading
     implementation "com.squareup.picasso:picasso:$rootProject.picassoVersion"
 

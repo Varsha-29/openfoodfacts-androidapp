@@ -58,6 +58,8 @@ ext {
 
     greenDaoVersion = '3.3.0'
 
+    eventBusVersion = '3.2.0'
+
     picassoVersion = '2.71828'
     //DO NOT UPDATE : saveInAppExternalFilesDir() removed
     easyImageVersion = '1.4.0'
